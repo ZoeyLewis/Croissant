@@ -1,0 +1,25 @@
+body {
+  background: #f8e8a6;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+a {
+  color: seagreen;
+  padding: 10px;
+}
+.croissant-image {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10%;
+  padding: 30px;
+}
+.contact-link {
+  color: blue;
+}
